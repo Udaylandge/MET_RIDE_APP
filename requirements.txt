@@ -1,0 +1,9 @@
+Flask
+Flask-PyMongo
+Flask-Mail
+PyJWT
+Flask-CORS
+flask-socketio
+python-dotenv
+simple-websocket
+requests
