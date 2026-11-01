@@ -1,7 +1,3 @@
-import sys
-import io
-sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
-
 import importlib
 import os
 from flask import Flask

@@ -3,7 +3,9 @@ Flask-PyMongo
 Flask-Mail
 PyJWT
 Flask-CORS
-flask-socketio
+Flask-SocketIO
 python-dotenv
 simple-websocket
 requests
+gunicorn
+dnspython
